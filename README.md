@@ -3,3 +3,4 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
 
 Datasets-
 1. Predict Energy Demand during Extreme Weather - https://www.kaggle.com/datasets/orvile/weather-and-electric-load-dataset
+2. Bank Notes Authentication - https://www.kaggle.com/datasets/catiely05/data-banknote-authentication/code
