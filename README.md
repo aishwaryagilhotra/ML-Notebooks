@@ -4,3 +4,7 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
 Datasets-
 1. Predict Energy Demand during Extreme Weather - https://www.kaggle.com/datasets/orvile/weather-and-electric-load-dataset
 2. Bank Notes Authentication - https://www.kaggle.com/datasets/catiely05/data-banknote-authentication/code
+3. AI-Powered Financial Advisor - Consists of 3 datasets
+   3.1 Bank Interest Rates - https://www.kaggle.com/datasets/jaskiratsinghjassi/indian-banks-interest-rates
+   3.2 Monetary Policies - RBI DBIE
+   3.3 Synthetic Customer Dataset - GPT-5
