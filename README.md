@@ -19,3 +19,4 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
    3.2 Monetary Policies - RBI DBIE
    3.3 Synthetic Customer Dataset - GPT-5
 4. DatasetSplit - Calls OpenML API for recent data(first 500 rows) on tasks and algorithms used
+5. LinearRegression + Gradient Descent - https://archive.ics.uci.edu/dataset/9/auto+mpg
