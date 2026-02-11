@@ -48,19 +48,18 @@ for epoch in range(max_epochs):
     dw = (-2/n) * np.sum(X * (Y - Y_pred))
     db = (-2/n) * np.sum(Y - Y_pred)
 
-    # Update parameters
+    # Update
     w = w - learning_rate * dw
     b = b - learning_rate * db
 
-    # Check convergence
+    # Print every 50 iterations
+    if epoch % 50 == 0:
+        print(f"Iteration {epoch}, Loss: {loss}")
+
+    # Convergence check
     if epoch > 0 and abs(loss_history[-2] - loss) < tolerance:
         print("Converged at iteration:", epoch)
         break
-
-print("Final Weight (Slope):", w)
-print("Final Bias (Intercept):", b)
-print("Final Loss:", loss)
-
 
 # Plot Loss Curve
 
