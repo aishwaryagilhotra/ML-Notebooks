@@ -6,10 +6,11 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
 - Linear Regression Positive and negative slopes - LinearRegression.py
 - How to Gradient Descent - GradientDescent.py
 
-# Models Used-
+# Mini Projects-
 1. Predict Energy Demand during Extreme Weather - XGBoost, Random Forest
 2. Bank Notes Authentication - Decision Tree
 3. AI-Powered Financial Advisor - Random Forest, XGBoost, LightGBM (Both Regression and Classification)
+4. A comprehensive demand forecasting system that predicts future product demand (Low/Medium/High) using historical sales data, seasonal patterns, competitor pricing, marketing campaigns, and customer reviews - Random Forest, Decision Tree, XGBoost, LightGBM
 
 # Datasets-
 1. Predict Energy Demand during Extreme Weather - https://www.kaggle.com/datasets/orvile/weather-and-electric-load-dataset
@@ -19,4 +20,5 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
    3.2 Monetary Policies - RBI DBIE
    3.3 Synthetic Customer Dataset - GPT-5
 4. DatasetSplit - Calls OpenML API for recent data(first 500 rows) on tasks and algorithms used
-5. LinearRegression + Gradient Descent - https://archive.ics.uci.edu/dataset/9/auto+mpg
+5. LinearRegression + Gradient Descent - https://archive.ics.uci.edu/dataset/9/auto+mp
+6. Demand Forecasting - Synthetic (python pandas)
