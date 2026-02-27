@@ -2,9 +2,11 @@
 A curated portfolio of my machine learning experiments and mini-projects. Includes implementations, visualizations, and insights across supervised and unsupervised learning models.
 
 # Basics
-- How to Split a Dataset into train, test and validation sets - DatasetSplit.py
+- How to Split a Dataset into train, test, and validation sets - DatasetSplit.py
 - Linear Regression Positive and negative slopes - LinearRegression.py
 - How to Gradient Descent - GradientDescent.py
+- How to Naive Bayes - NaiveBayes.py
+- Evaluating Regression models - EvaluationMetrices.py
 
 # Mini Projects-
 1. Predict Energy Demand during Extreme Weather - XGBoost, Random Forest
