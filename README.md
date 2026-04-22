@@ -16,14 +16,15 @@ A curated portfolio of my machine learning experiments and mini-projects. Includ
 
 # Satellite Data
 
-1. Random_Forest_Sentinel_2 - Matches satellite tiles with masks using filename suffix
-Loads data, reshapes pixels into feature vectors (7 bands) and labels
-Samples 2% of pixels to reduce size
-Combines into dataset (X, y) and checks stats
-Trains a Random Forest classifier for pixel-wise classification
-Evaluates performance with classification report
-Shows feature importance (bands + indices)
-Visualizes RGB image, ground truth mask, and predicted mask
+1. Random_Forest_Sentinel_2 -
+   - Matches satellite tiles with masks using filename suffix
+   - Loads data, reshapes pixels into feature vectors (7 bands) and labels
+   - Samples 2% of pixels to reduce size
+   - Combines into dataset (X, y) and checks stats
+   - Trains a Random Forest classifier for pixel-wise classification
+   - Evaluates performance with classification report
+   - Shows feature importance (bands + indices)
+   - Visualizes RGB image, ground truth mask, and predicted mask
 
 # Datasets-
 1. Predict Energy Demand during Extreme Weather - https://www.kaggle.com/datasets/orvile/weather-and-electric-load-dataset
